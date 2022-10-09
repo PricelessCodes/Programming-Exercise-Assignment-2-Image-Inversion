@@ -7,10 +7,12 @@ Write a program to create new images that are photographic negatives (or inverte
 For example, see the original and inverted images of Robert.
 
 ![image](https://user-images.githubusercontent.com/66659379/194773757-7fce6725-ab00-4b7a-8c84-e7961b4354b4.png)
+![image](https://user-images.githubusercontent.com/66659379/194773831-a09bdf1a-e059-493c-adfc-3ba4c50131e4.png)
 
 Here is another example. The second image below is the inverted image of the first image.
 
 ![image](https://user-images.githubusercontent.com/66659379/194773788-3a13c171-4f58-46ba-8e69-f98accaab6b7.png)
+![image](https://user-images.githubusercontent.com/66659379/194773836-7c635d76-edef-45a8-96ab-1aad711fbba9.png)
 
 To tackle this problem:
 
